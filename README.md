@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on mobile app development
 - 🌱 Currently learning Java & C#
-- 🥅 2021 Goals: Release Futpal (my own app)
+- 🥅 2021 Goals: Release Futpal
 - ⚡ Fun fact: I love to draw, play football, chess, sing and play guitar
 
 ### ⚙️ &nbsp;GitHub Analytics
