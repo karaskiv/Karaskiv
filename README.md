@@ -9,7 +9,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Karaskiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karaskiv&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&theme=gotham)](https://github.com/Karaskiv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&theme=gotham)]
 
 
 
