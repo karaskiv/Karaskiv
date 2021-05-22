@@ -17,3 +17,4 @@
 </p>
 
 [![Karaskiv's github stats](https://github-readme-stats.vercel.app/api?username=Karaskiv)](https://github.com/Karaskiv/github-readme-stats)
+[![Karaskiv's github stats](https://github-readme-stats.vercel.app/api?/top-langs/username=Karaskiv)](https://github.com/Karaskiv/github-readme-stats)
