@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a mobile app project development
 - 🌱 I’m currently learning everything
-- 🥅 2021 Goals: Create tools to help the people around me
+- 🥅 2021 Goals: Create tools that help my family and friends
 - ⚡ Fun fact: I love to draw, play football, chess, sing and play guitar
 
 ### ⚙️ &nbsp;GitHub Analytics
