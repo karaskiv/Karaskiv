@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I love to draw, play football, chess, sing and play guitar
 
 ### ⚙️ &nbsp;GitHub Analytics
-![Karaskiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karaskiv&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&theme=gotham)]
+![Karaskiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karaskiv&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&theme=algolia)
 
 
 
