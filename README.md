@@ -4,10 +4,8 @@
 
 - 🔭 Currently working on mobile app development
 - 🌱 Currently learning Java & C#
-- 🥅 2021 Goals: Release [Futpal][projects]
+- 🥅 2021 Goals: Release [Futpal][[I'm an inline-style link](https://github.com/Karaskiv?tab=projects)
 - ⚡ Fun fact: I love to draw, play football, chess, sing and play guitar
-[I'm an inline-style link](https://www.google.com)
-[![]https://github.com/Karaskiv?tab=projects]
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
