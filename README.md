@@ -3,8 +3,8 @@
 ### I'm a Developer, Designer and Teacher!
 
 - 🔭 I’m currently working on a mobile app project development
-- 🌱 I’m currently learning everything
-- 🥅 2021 Goals: Create tools that help my family and friends
+- 🌱 I’m currently learning Java & C#
+- 🥅 2021 Goals: Create tools to help teaching more organized and efficient
 - ⚡ Fun fact: I love to draw, play football, chess, sing and play guitar
 
 ### ⚙️ &nbsp;GitHub Analytics
