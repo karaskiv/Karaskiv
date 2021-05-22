@@ -9,10 +9,5 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Karaskiv">
-  [![Karaskiv's github stats](https://github-readme-stats.vercel.app/api?username=Karaskiv)](https://github.com/Karaskiv/github-readme-stats)
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 
