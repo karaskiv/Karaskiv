@@ -1,4 +1,4 @@
-## Hi there, I'm Justinus Sejati 👋
+## Hi there, I'm Justinus Sejati aka Karaskiv 👋
 
 ### I'm a Developer, Designer and Teacher!!
 
