@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Justinus Sejati aka Karaskiv
 
-<!--
-**Karaskiv/Karaskiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I'm a Developer, Designer and Teacher!!
 
 - 🔭 I’m currently working on a mobile app project development
 - 🌱 I’m currently learning everything
