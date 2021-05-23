@@ -15,8 +15,8 @@
 <p align="center">
 <a href="https://github.com/Karaskiv">
   <img height="180em" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karaskiv&show_icons=true&theme=gotham&include_all_commits=true&count_private=gotham"/>
-  <img height="180em" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&langs_count=8&theme=gotham"/>
-  <img height="180em" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Karaskiv&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Karaskiv&theme=gotham"/>
 </a>
 </p>
 
@@ -48,9 +48,9 @@
 ### 🚀 My Latest Stuff
 <p align="center">
   <a href="https://github.com/Karaskiv/Desktop-FlappyBird">
-    <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical"/>
+    <img height="170em" width="410" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical"/>
   </a>
   <a href="https://github.com/Karaskiv/Android-DinnerFix">
-    <img height="170em" width="400"src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Android-DinnerFix&theme=radical"/>
+    <img height="170em" width="410"src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Android-DinnerFix&theme=radical"/>
   </a>
 </p>
