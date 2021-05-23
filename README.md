@@ -22,6 +22,6 @@
     <img height="170em" width="400" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical"/>
   </a>
   <a href="https://github.com/Karaskiv/Android-DinnerFix">
-    <img height="170em" width="4000"src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Android-DinnerFix&theme=radical"/>
+    <img height="170em" width="400"src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Android-DinnerFix&theme=radical"/>
   </a>
 </p>
