@@ -1,6 +1,6 @@
 
 
-## Hi, I'm Justinus Sejati👋
+## Hi, I'm Justinus Sejati 👋
 
 ### :briefcase: I'm a Developer, Designer and Teacher
 
