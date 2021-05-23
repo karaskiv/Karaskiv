@@ -10,13 +10,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/Karaskiv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karaskiv&show_icons=true&theme=radical&include_all_commits=true&count_private=gotham"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karaskiv&show_icons=true&theme=gotham&include_all_commits=true&count_private=gotham"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&langs_count=8&theme=gotham"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Karaskiv&theme=gotham"/>
 </a>
 </p>
 
 ### 🚀 My Latest Stuff
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical)](https://github.com/Karaskiv/Desktop-FlappyBird)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karaskiv&repo=Desktop-KaraskivCoffeehouse&theme=radical)](https://github.com/Karaskiv/Desktop-KaraskivCoffeehouse)
+<img height="180em" [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical)](https://github.com/Karaskiv/Desktop-FlappyBird)/>
+<img height="180em" [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karaskiv&repo=Desktop-KaraskivCoffeehouse&theme=radical)](https://github.com/Karaskiv/Desktop-KaraskivCoffeehouse)/>
 </div>
