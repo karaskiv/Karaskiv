@@ -7,7 +7,7 @@
 - 🔭 Currently working on mobile app development
 - 🌱 Currently learning Java & C#
 - 🥅 2021 Goals: Release [Futpal](https://github.com/Karaskiv?tab=projects)
-- ⚡ Fun fact: I love to draw, play fooball, chess, and music.
+- ⚡ Fun fact: I love to draw, play fooball, chess, and music
 
 
 
