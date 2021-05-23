@@ -1,6 +1,6 @@
 
 
-## Hi, I'm Justinus Sejati 👋
+### 👋 Hi, I'm Justinus Sejati
 
 ### :briefcase: A passionate developer, graphic designer, and teacher from Indonesia
 
