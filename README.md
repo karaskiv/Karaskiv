@@ -14,9 +14,9 @@
 ### ⚙️ GitHub Analytics
 <p align="center">
 <a href="https://github.com/Karaskiv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karaskiv&show_icons=true&theme=gotham&include_all_commits=true&count_private=gotham"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&langs_count=8&theme=gotham"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Karaskiv&theme=gotham"/>
+  <img height="180em" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karaskiv&show_icons=true&theme=gotham&include_all_commits=true&count_private=gotham"/>
+  <img height="180em" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karaskiv&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="180em" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Karaskiv&theme=gotham"/>
 </a>
 </p>
 
