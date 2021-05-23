@@ -18,6 +18,6 @@
 
 ### 🚀 My Latest Stuff
 <p align="center">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical)](https://github.com/Karaskiv/Desktop-FlappyBird)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karaskiv&repo=Desktop-KaraskivCoffeehouse=radical)](https://github.com/Karaskiv/Desktop-KaraskivCoffeehouse)
+[https://github-readme-stats.vercel.app/api/pin/?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical](https://github.com/Karaskiv/Desktop-FlappyBird)
+[https://github-readme-stats.vercel.app/api/pin/?username=Karaskiv&repo=Desktop-KaraskivCoffeehouse=radical](https://github.com/Karaskiv/Desktop-KaraskivCoffeehouse)
 </p>
