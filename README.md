@@ -19,7 +19,7 @@
 ### 🚀 My Latest Stuff
 <p>
   <a href="https://github.com/Karaskiv/Desktop-FlappyBird">
-    <img height="170em" width="300em" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical"/>
   </a>
   <a href="https://github.com/Karaskiv/Desktop-Android-Hasherz">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Android-Hasherz&theme=radical"/>
