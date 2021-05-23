@@ -1,4 +1,10 @@
-## Hi there, I'm Justinus Sejati aka [Karaskiv](https://github.com/Karaskiv) 👋
+<h1 align="center">
+  <a href="https://github.com/Karaskiv">
+    <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Karaskiv" />
+  </a>
+</h1>
+
+## Hi, I'm Justinus Sejati👋
 
 ### :briefcase: I'm a Developer, Designer and Teacher
 
