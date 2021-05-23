@@ -17,7 +17,7 @@
 </p>
 
 ### 🚀 My Latest Stuff
-<p>
+<p align="center">
   <a href="https://github.com/Karaskiv/Desktop-FlappyBird">
     <img height="170em" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical"/>
   </a>
