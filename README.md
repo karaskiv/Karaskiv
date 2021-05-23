@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Justinus Sejati
 
-### :briefcase: A passionate developer, graphic designer, and teacher from Indonesia
+### :briefcase: A Passionate Developer, Graphic Designer, and Teacher from Indonesia
 
 - 🔭 Currently working on mobile app development
 - 🌱 Currently learning Java and C#
