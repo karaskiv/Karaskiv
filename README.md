@@ -21,7 +21,7 @@
   <a href="https://github.com/Karaskiv/Desktop-FlappyBird">
     <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical"/>
   </a>
-  <a href="https://github.com/Karaskiv/Android-DinnerFix">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Desktop-FlappyBird&theme=radical"/>
+  <a href="https://github.com/Karaskiv/Desktop-KaraskivCoffeehouse">
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/pin?username=Karaskiv&repo=Desktop-KaraskivCoffeehouse"/>
   </a>
 </p>
