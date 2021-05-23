@@ -1,4 +1,4 @@
-## Hi there, I'm Justinus Sejati aka [Karaskiv](https:github.com/Karaskiv) 👋
+## Hi there, I'm Justinus Sejati aka [Karaskiv](https//:github.com/Karaskiv) 👋
 
 ### I'm a Developer, Designer and Teacher
 
