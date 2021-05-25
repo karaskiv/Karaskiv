@@ -3,13 +3,10 @@
 ### 👋 Hi, I'm Justinus Sejati
 
 ### :briefcase: A Passionate Developer, Graphic Designer, and Teacher from Indonesia
-
 - 🔭 Currently working on mobile app development
 - 🌱 Currently learning Java and C#
 - 🥅 2021 Goals: Release [Futpal](https://github.com/Karaskiv?tab=projects)
 - ⚡ Fun fact: I love to draw, play fooball, chess, and music
-
-
 
 ### ⚙️ GitHub Analytics
 <p align="center">
