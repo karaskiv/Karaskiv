@@ -3,9 +3,9 @@
 ### 👋 Hi, I'm Justinus Sejati
 
 ### :briefcase: A Passionate Developer, Graphic Designer, and Teacher from Indonesia
-- 🔭 Currently working on mobile app development and my own company (Gali Simak Rupa)
+- 🔭 Currently working on mobile app development
 - 🌱 Currently learning Java and C#
-- 🥅 2021 Goals: Launch Karaskiv Media, Karaskiv Store, and [Futpal](https://github.com/Karaskiv?tab=projects) under Gali Simak Rupa
+- 🥅 2021 Goals: Launch my own app [Futpal](https://github.com/Karaskiv?tab=projects)
 - ⚡ Fun fact: I love to draw, play fooball, chess, and music
 
 ### ⚙️ GitHub Analytics
